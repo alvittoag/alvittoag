@@ -30,16 +30,14 @@
       alt="alvittoag"
     />
   </p>
-  <p>
+  <p  align="center">
     <img
-      align="center"
       src="https://github-readme-stats.vercel.app/api?username=alvittoag&show_icons=true&locale=en"
       alt="alvittoag"
     />
   </p>
-  <p>
+  <p  align="center">
     <img
-      align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=alvittoag&"
       alt="alvittoag"
     />
