@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvittoag&label=Profile%20views&color=0e75b6&style=flat" alt="alvittoag" /> </p>
 
-- 🌱 I’m currently learning **Backend Dev**
-
-- 📫 How to reach me **alvittoag@pm.me**
-
-- ⚡ Fun fact **I really like errors and bugs**
-
-- 💬 Ask me about **MERN and the other**
+- 👨🏻‍💼 My name is `Alvitto Aprilian Gumay`
+- 🏠 Live in `Cikampek, Indonesia`
+- 👶🏻 Born in `Jakarta, April 15 2002`
+- 💻 `Information System` Student at `Bina Sarana Informatika University`
+- 🌟 Currently learning `Backend Dev` 
+- 📫 How to reach me `alvittoag@pm.me`
+- ⚡ Fun fact `I realy like errors and bug`
+- 💬 Ask me about `MERN and the other`
 
 ## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alvittoag) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvittoag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvittoag) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alvitto_id) 
