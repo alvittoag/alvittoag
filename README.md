@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvittoag&label=Profile%20views&color=0e75b6&style=flat" alt="alvittoag" /> </p>
 
+## 👨🏻 About Me:
 - 👨🏻‍💼 My name is `Alvitto Aprilian Gumay`
 - 🏠 Live in `Cikampek, Indonesia`
 - 👶🏻 Born in `Jakarta, April 15 2002`
-- 💻 `Information System` Student at `Bina Sarana Informatika University`
 - 🌟 Currently learning `Backend Dev` 
 - 📫 How to reach me `alvittoag@pm.me`
 - ⚡ Fun fact `I realy like errors and bug`
