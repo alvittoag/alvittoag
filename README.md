@@ -29,11 +29,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvittoag&" alt="alvittoag" /></p>
 
-
+---
 <div align="center">
   
-### ✍️Quote Dev
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=cobalt&animation=grow_out_in&layout=default&font=default)
+### ✍️Random Quotes
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
   
  </div>
 
