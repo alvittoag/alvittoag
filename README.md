@@ -30,6 +30,10 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvittoag&" alt="alvittoag" /></p>
 
 
-
-<h3 align="center">"let's be friends and help each other 😁"</h3>
+<div align="center">
+  
+### ✍️Quote Dev
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=cobalt&animation=grow_out_in&layout=default&font=default)
+  
+ </div>
 
