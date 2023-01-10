@@ -8,7 +8,7 @@
 
 - 👨🏻‍💼 My name is `Alvitto Aprilian Gumay`
 - 🏠 Live in `Cikampek, Indonesia`
-- 👶🏻 Born in `Jakarta, April 15 2002`
+- 👶🏻 Born in `Jakarta, Indonesia`
 - 🌟 Currently learning `Mobile Application` 
 - 📫 How to reach me `alvittoag@pm.me`
 - ⚡ Fun fact `I realy like errors and bug`
