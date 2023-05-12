@@ -1,5 +1,5 @@
 <h1 align="center">Alvitto Aprilian Gumay</h1>
-<h3 align="center">Front-end Developer | Informatics Student</h3>
+<h3 align="center">React Developer | Informatics Student</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
 
