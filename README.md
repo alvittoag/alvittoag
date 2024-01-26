@@ -24,18 +24,13 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvittoag&hide_border=true&layout=compact" align="left" style="width: 40%" />  
-  
- <div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3166qv6i4vzvpj7xcbmrf53hganq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=3166qv6i4vzvpj7xcbmrf53hganq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 
-
-<div align="center">
-
-
-  
-## ✍️Random Quotes
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvittoag&hide_border=true&layout=compact" align="left" style="width: 40%" />  
 </div>
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=alvittoag&show_icons=true&count_private=true&hide_border=true" align="left" />  
+</div>
+  
+
 
